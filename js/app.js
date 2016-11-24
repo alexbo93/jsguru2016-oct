@@ -11,6 +11,8 @@ import "./iterators.js";
 import "./generators.js";
 import "./decorators.js";
 
+import "./webworkers.js";
+
 function A() {
     this.x = 11;
 };
